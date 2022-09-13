@@ -12,7 +12,7 @@ int main()
         printf( "\n   3. Editar Pinta");
         printf( "\n   4. Editar criatura");
         printf( "\n   5. Salir." );
-        printf( "\n\n   Introduzca opci%cn (1-5): ");
+        printf( "\n\n   Introduzca opcion (1-5): ");
 
         scanf( "%d", &opcion );
 
